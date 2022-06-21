@@ -8,7 +8,7 @@
 [![Codewars Badge](https://www.codewars.com/users/TsutomuObara/badges/micro)](https://www.codewars.com/users/TsutomuObara/badges/micro)
 -->
 
-### Currently a Solution Architect at [CI&T](ciandt.com).
+### Currently a Principal Architect at [CI&T](ciandt.com).
 <!--
 **kanjih-ciandt/kanjih-ciandt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
